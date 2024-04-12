@@ -1,14 +1,26 @@
-// add two numbers together
-function add(a, b) {
-  return a + b
-}
-
-module.exports = add
-
-// Path: app.js
-const add = require('./member')
-const a = 1
-const b = 2
-const result =
-add(a, b)
-// result = 3
+function skillsMember()
+{}
+// Path: member.js
+function addMember()
+{}
+// Path: member.js
+function deleteMember()
+{}
+// Path: member.js
+function editMember()
+{}
+// Path: member.js
+function updateMember()
+{}
+// Path: member.js
+function getMember()
+{}
+// Path: member.js
+function getAllMembers()
+{}
+// Path: member.js
+function getMembersByTeam()
+{}
+// Path: member.js
+function getMembersBySkill()
+{}
