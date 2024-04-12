@@ -11,3 +11,4 @@ const a = 1
 const b = 2
 const result =
 add(a, b)
+// result = 3
